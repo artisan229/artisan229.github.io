@@ -20,7 +20,7 @@ title                    : "띵러닝"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "강명균"
-description              : "안녕하세요. 강명균입니다."
+description              : "안녕하세요"
 url                      : "https://artisan229.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
